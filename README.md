@@ -71,7 +71,6 @@ This is a source code to build a WhatsApp bot using OpenAI bot and Node.js. The 
 
 ### 🎥 WATCH VIDEO 
 
-<p align="center"> <a href="https://www.youtube.com/watch?v=l_lNx4AhvrY&t=14s"><img title="Made in INDIA" width="58%" src="https://www.onlinehacking.in/wp-content/uploads/2021/12/play-.webp"></a>
 
 ## ✅ INSTALLATION [ Linux / Termux ] :
 
